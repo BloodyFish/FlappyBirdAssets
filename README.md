@@ -1,2 +1,2 @@
 # FlappyBirdAssets
-Flappy Bird Assets for my YouTube series
+Flappy Bird Assets
